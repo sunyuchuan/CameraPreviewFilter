@@ -1,4 +1,6 @@
 # CameraPreviewFilter
+通过gles给相机和预览视频加特效并保存
+
 android相机预览与录制
 
 1、CameraPreview.java基于SurfaceView
