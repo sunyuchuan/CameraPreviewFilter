@@ -4,6 +4,7 @@
 android相机预览与录制
 
 1、CameraPreview.java基于SurfaceView
+
 相机预览 加特效并编码保存
 
 2、com.xmly.media.video.view基于GLSurfaceView
